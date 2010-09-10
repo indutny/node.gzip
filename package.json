@@ -1,0 +1,19 @@
+{
+  "name"          : "gzip",
+  "description"   : "Simple gzip compressor (using 'gzip')",
+  "url"           : "http://github.com/donnerjack13589/node.gzip",
+  "keywords"      : ["deflate" ,"gzip"],
+  "author"        : "Fedor Indutny <fedor.indutny@gmail.com>",
+  "contributors"  : [
+    {name: "Fedor Indutny", email: "fedor.indutny@gmail.com"}
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/donnerjack13589/node.gzip.git"
+  },  
+  "version"       : "0.0.1",
+  "engines"       : { "node": ">=0.2" },
+  "directories": {
+    "lib": "./lib/gzip"
+  }
+}
