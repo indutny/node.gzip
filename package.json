@@ -1,19 +1,21 @@
-{
-  "name"          : "gzip",
-  "description"   : "Simple gzip compressor (using 'gzip')",
-  "url"           : "http://github.com/donnerjack13589/node.gzip",
-  "keywords"      : ["deflate" ,"gzip"],
-  "author"        : "Fedor Indutny <fedor.indutny@gmail.com>",
-  "contributors"  : [
-    {name: "Fedor Indutny", email: "fedor.indutny@gmail.com"}
-  ],
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/donnerjack13589/node.gzip.git"
-  },  
-  "version"       : "0.0.1",
-  "engines"       : { "node": ">=0.2" },
-  "directories": {
-    "lib": "./lib/gzip"
+{ "name" : "gzip"
+, "description" : "Gzip for node"
+, "version" : "0.0.2"
+, "homepage" : "http://github.com/donnerjack13589/node.gzip"
+, "author" : "Fedor Indutny <fedor.indutny@gmail.com> (http://github.com/donnerjack13589)"
+, "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/donnerjack13589/node.gzip.git"
   }
+, "bugs" :
+  { "mail" : "fedor.indutny@gmail.com"
+  , "web" : "http://github.com/donnerjack13589/node.gzip/issues"
+  }
+, "directories" : { "lib" : "./lib/gzio" }
+, "engines" : { "node" : ">=0.2" }
+, "licenses" :
+  [ { "type" : "MIT"
+    , "url" : "http://github.com/donnerjack13589/node.gzip/raw/master/LICENSE"
+    }
+  ]
 }
