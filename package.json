@@ -1,6 +1,6 @@
 { "name" : "gzip"
 , "description" : "Gzip for node"
-, "version" : "0.0.4"
+, "version" : "0.0.5"
 , "homepage" : "http://github.com/donnerjack13589/node.gzip"
 , "author" : "Fedor Indutny <fedor.indutny@gmail.com> (http://github.com/donnerjack13589)"
 , "repository" :
