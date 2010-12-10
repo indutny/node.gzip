@@ -2,7 +2,8 @@
     npm install gzip
     
 ===Usage
-    var gzip = require('gzip').gzip;
+    var gzip = require('gzip');
+    
     gzip('some text', function(err, data){
       // By default:
       //   compression = 8
