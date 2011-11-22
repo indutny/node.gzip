@@ -2,16 +2,16 @@
   "name" : "gzip",
   "description" : "Gzip for node",
   "version" : "0.1.0",
-  "homepage" : "http://github.com/donnerjack13589/node.gzip",
-  "author" : "Fedor Indutny <fedor.indutny@gmail.com> (http://github.com/donnerjack13589)",
+  "homepage" : "http://github.com/indutny/node.gzip",
+  "author" : "Fedor Indutny <fedor.indutny@gmail.com> (http://github.com/indutny)",
   "repository" : { 
     "type" : "git",
-    "url" : "http://github.com/donnerjack13589/node.gzip.git"
+    "url" : "http://github.com/indutny/node.gzip.git"
   },
   "bugs" :
   {
     "mail" : "fedor.indutny@gmail.com",
-    "url" : "http://github.com/donnerjack13589/node.gzip/issues"
+    "url" : "http://github.com/indutny/node.gzip/issues"
   },
   "directories" : { "lib" : "./lib/gzip" },
   "main": "lib/gzip/index",
@@ -19,7 +19,7 @@
   "licenses" :
   [ {
       "type" : "MIT",
-      "url" : "http://github.com/donnerjack13589/node.gzip/raw/master/LICENSE"
+      "url" : "http://github.com/indutny/node.gzip/raw/master/LICENSE"
     }
   ]
 }
