@@ -11,7 +11,7 @@
   "bugs" :
   {
     "mail" : "fedor.indutny@gmail.com",
-    "web" : "http://github.com/donnerjack13589/node.gzip/issues"
+    "url" : "http://github.com/donnerjack13589/node.gzip/issues"
   },
   "directories" : { "lib" : "./lib/gzip" },
   "main": "lib/gzip/index",
