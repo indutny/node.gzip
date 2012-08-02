@@ -15,7 +15,7 @@
   },
   "directories" : { "lib" : "./lib/gzip" },
   "main": "lib/gzip/index",
-  "engines" : { "node" : ">=v0.2.0" },
+  "engines" : { "node" : "0.8.x" },
   "licenses" :
   [ {
       "type" : "MIT",
